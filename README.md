@@ -4,6 +4,11 @@
 
 <hr>
 
+### Hypothesis and exploration questions
+1. Phycocyanin level variation in different seasons.
+2. How is solar radiation impacting the concentration?
+3. What kind of relations exist between phycocyanin concentration and water acidity/alkalinity.
+
 ### Executing the scripts to generate data for analysis
 
 1. Execute [integrate_vp_solar_rad.ipynb](EDA/data.wrangling/integrate_vp_solar_rad.ipynb)
