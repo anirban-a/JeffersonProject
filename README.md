@@ -6,8 +6,9 @@
 
 ### Hypothesis and exploration questions
 1. Phycocyanin level variation in different seasons.
-2. How is solar radiation impacting the concentration?
-3. What kind of relations exist between phycocyanin concentration and water acidity/alkalinity.
+2. Phycocyanin level variation across 2017 - 2019.
+3. How is solar radiation impacting the concentration?
+4. What kind of relations exist between phycocyanin concentration and water acidity/alkalinity.
 
 ### Executing the scripts to generate data for analysis
 
