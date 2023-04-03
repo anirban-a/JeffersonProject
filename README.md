@@ -12,6 +12,7 @@
 
 ### Executing the scripts to generate data for analysis
 
-1. Execute [integrate_vp_solar_rad.ipynb](EDA/data.wrangling/integrate_vp_solar_rad.ipynb)
-   and [jp_data_wrangle.ipynb](EDA/data.wrangling/jp_data_wrangle.ipynb) in any order.
-2. Execute [solar_radiation_data_wrangle.ipynb](EDA/data.wrangling/solar_radiation_data_wrangle.ipynb)
+1. Execute [solar_radiation_data_wrangle.ipynb](EDA%2Fdata.wrangling%2Fsolar_radiation_data_wrangle.ipynb)
+   and [vp_data_wrangle.ipynb](EDA%2Fdata.wrangling%2Fvp_data_wrangle.ipynb) in any order.
+2. Execute [integrate_vp_solar_rad.ipynb](EDA%2Fdata.wrangling%2Fintegrate_vp_solar_rad.ipynb). This will merge the cleaned data from above 2 steps into a new `csv` file.
+3. Execute [nutrients_data_wrangle.ipynb](EDA%2Fdata.wrangling%2Fnutrients_data_wrangle.ipynb). This will merge nutrients data into the `csv` file formed in the above step.
