@@ -18,6 +18,11 @@
 3. Execute [nutrients_data_wrangle.ipynb](EDA%2Fdata.wrangling%2Fnutrients_data_wrangle.ipynb). This will merge nutrients data into the `csv` file formed in the above step.
 4. Execute [NASA_power_data_wrange.ipynb](EDA%2Fdata.wrangling%2FNASA_power_data_wrange.ipynb). This will merge NASA data into the `csv` file formed in the above steps.
 
+### Executing the scripts to generate data for forecasting
+1. Execute [vp_data_wrangle_fc.ipynb](EDA%2Fdata.forecast.wrangling%2Fvp_data_wrangle_fc.ipynb)
+2. Execute [nutrient_data_wrangle_fc.ipynb](EDA%2Fdata.forecast.wrangling%2Fnutrient_data_wrangle_fc.ipynb)
+3. Execute [prepare_forecast_input.ipynb](EDA%2Fdata.forecast.wrangling%2Fprepare_forecast_input.ipynb)
+
 ## Data dictionary
 
 | Variable          | Definition                                                    |
