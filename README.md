@@ -37,3 +37,8 @@
 | PRECTOTCORR       | Precipitation Corrected (mm/day)                              |
 | ALLSKY_SFC_SW_DWN | All Sky Surface Shortwave Downward Irradiance (kW-hr/m^2/day) |
 | ALLSKY_SFC_LW_DWN | All Sky Surface Longwave Downward Irradiance (kW-hr/m^2/day)  |
+
+<hr/>
+
+## Forecasting
+
